@@ -1,0 +1,3 @@
+- Coordinate system.  The rooms to the N, S, E, and W need to be automatically set as you move from room to room.
+- a backpack for holding items. this must persist from room to room
+- you must be able to remove and use items against atackers
