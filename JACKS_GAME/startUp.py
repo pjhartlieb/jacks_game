@@ -13,9 +13,10 @@ class startingPoint(object):
 		self.name = name
 
 	def selectStart(self):
-		text = "Where would you like to start your quest?"
+		text = "quest"
+		text_f = (Fore.GREEN + text + Fore.RESET)
 		print ""
-		print (Fore.GREEN + text + Fore.RESET)
+		print " Where would you like to start your " + text_f + " ?"
 		print "\t [1] Jack's Impenetrable Fortress"
 		print "\t [2] Spinacullum Falls"
 		print "\t [3] The Church\n"

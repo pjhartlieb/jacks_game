@@ -1,3 +1,7 @@
 - Coordinate system.  The rooms to the N, S, E, and W need to be automatically set as you move from room to room.
 - a backpack for holding items. this must persist from room to room
 - you must be able to remove and use items against atackers
+- there has to be points earned.  points and payment tracking needs to be a separate class
+- johns volcano fortress
+- once you solve a problem you should not be able to solve it again
+- randomly pull math problems from a database
